@@ -1,4 +1,5 @@
-Welcome to Christmas Blog's documentation!
+==========================================
+Best Gifts of 2018
 ==========================================
 
 .. toctree::
@@ -13,3 +14,44 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+=======
+==========
+Best Gifts
+==========
+**1. YYQ Bluetooth Headphones Wireless Sports**
+**Sweat-Proof Noise-Canceling Earbuds**
+
+
+    Katelyn Mangold, a 
+
+    This is another paragraph.
+
+**Song 2**
+
+
+    This is a paragraph.
+
+    This is another paragraph.
+
+**Song 3**
+
+
+    This is a paragraph.
+
+    This is another paragraph.
+
+**Song 4**
+
+
+    This is a paragraph.
+
+    This is another paragraph.
+
+**Song 5**
+
+
+    This is a paragraph.
+
+    This is another paragraph.
+
+>>>>>>> 3811b6bb109ade4dbc6d183f26b9912bcfcc1027
