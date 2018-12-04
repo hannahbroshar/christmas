@@ -52,3 +52,7 @@ About the Authors:
     * Favorite Christmas Movie: Home Alone
     * Favorite Christmas Song: Jingle Bell Rock
     * Favorite Christmas Activity: Baking Cookies
+    
+    If you are interested in Simpson college visit their `website`_.
+
+    .. _website: https://simpson.edu/
