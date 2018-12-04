@@ -2,21 +2,21 @@
 Traditions
 ==========
 
-**Song 1**
+**Holiday Baking**
 
 
     This is a paragraph.
     
     This is another paragraph.
 
-**Song 2**
+**Finding the Perfect Tree**
 
 
     This is a paragraph.
     
     This is another paragraph.
 
-**Song 3**
+**Decorating the tree and house**
 
 
     This is a paragraph.
