@@ -5,6 +5,7 @@ Top 5 Christmas Movies
 **A Christmas Story**
 
     .. image:: movie1.jpg
+    
     1983
     
     *A Christmas Story* is a classic Christmas movie that has
@@ -15,6 +16,7 @@ Top 5 Christmas Movies
 **Home Alone**
 
     .. image:: movie2.jpg
+    
     1990
     
     Oops, maybe cheating the system with this number 2 spot! *Home Alone* and its sequals are all fun Christmas movies
@@ -25,6 +27,7 @@ Top 5 Christmas Movies
 **The Santa Claus**
 
     .. image:: movie3.jpg
+    
     1994
     
     This might count as cheating again because one
@@ -35,6 +38,7 @@ Top 5 Christmas Movies
 **How The Grinch Stole Christmas**
 
     .. image:: movie4.jpg
+    
     2000
     
     Does your heart grow 3 times whenever you watch this film? 
@@ -44,6 +48,7 @@ Top 5 Christmas Movies
 **National Lampoon's Christmas Vacation**
 
     .. image:: movie5.jpg
+    
     1989
     
     Start thinking of everything that can go wrong when you try to plan the perfect Christmas. That is what this movie is all
