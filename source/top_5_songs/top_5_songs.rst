@@ -5,6 +5,7 @@ Top 5 Christmas Song
 **All I Want For Christmas Is You**
 
     .. image:: song1.jpg 
+    
     According to Billboard's Holiday 100 "All I want for Christmas" 
     by Mariah Carey comes in at number 1! The song as been at the 
     number one spot for 30 weeks now, and has been on the chart for
@@ -19,6 +20,7 @@ Top 5 Christmas Song
 **Merry Christmas From The Family**
 
     .. image:: song2.jpg
+    
     The song tends to be less traditional and more comical. This doesn't mean
     that it doesn't still relate to many families around the holiday season, 
     surely more families relate to this song more than they would like to admit.
@@ -28,6 +30,7 @@ Top 5 Christmas Song
 **It's Beginning To Look A Lot Like Christmas**
     
     .. image:: song3.jpg 
+    
     Coming in at the number 3 spot is Michael Bublé's cover of "It's Beginning to Look A Lot Like Christmas". Bublé's heavenly voice makes for a great cover of
     any Christmas song.
     
@@ -39,6 +42,7 @@ Top 5 Christmas Song
 **Santa Claus Is Coming To Town**
 
     .. image:: song4.jpg
+    
     The classic tune that seems to make it's way into almost every Christmas
     movie and teaches kids all about Santa and his list checking habits!
     
@@ -48,6 +52,7 @@ Top 5 Christmas Song
 **The 12 Days of Christmas**
 
     .. image:: song5.jpg
+    
     Last but certainly not least we have "The 12 Days of Christmas". 
     This has been a holiday favorite over the years, that is if people
      can remember all 12 gifts and not just **FIVE GOLDEN RINGS!**
