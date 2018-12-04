@@ -22,6 +22,9 @@ Butter      2 tblsp
     smooth and stretchy, about 10 minutes. Cover and let rest 10 minutes.
     
     Divide into 12 different pieces. Cover and let rise for 30 minutes. Bake in 375 degree oven for 20 minutes.
+    
+    .. image:: roll1.png
+        :width: 50%
 
 **Holiday Turkey**
 
@@ -43,6 +46,9 @@ Olive Oil   2 tblsp
     with olive oil and rub with dry rub seasoning mix. Tie the turkey legs together loosely
     and tuck wings under. Roast for about 3 hours or about 165 degrees. Transfer to platter
     and let rest for 30 minutes.
+    
+     .. image:: turkey.png
+        :width: 50%
 
 **Holiday Sweet Potatoes**
 
@@ -67,4 +73,7 @@ Pecans      1/2 c
     consistency desired. Stir in butter and salt. Crumb together brown sugar, flour, rosemary 
     and 1/4 tsp salt. Sprinkle mixture over yam mixture and drizzle with chopped pecans and maple 
     syrup.
+    
+     .. image:: potatoes.png
+        :width: 50%
     

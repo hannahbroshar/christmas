@@ -26,6 +26,9 @@ Salt        1 tsp
     Preheat oven to 350. Let cookies bake for 9 minutes. Decorate with your favorite frosting and 
     cookie decorations! 
 
+      .. image:: cookie.png
+        :width: 50%
+
 **Oreo Balls!**
 
 =========== ======== 
@@ -44,6 +47,9 @@ Almond Brk  1 pack
     Melt white almond bark until smooth. Dip solid oreo balls into the almond bark mixture until the ball is covered.
     Set on baking sheet lined with wax paper. Let sit in refrigerator for at least 3 hours.
     
+    .. image:: oreo.png
+        :width: 50%
+    
 **Cake Balls**
 
 =========== ======== 
@@ -60,3 +66,6 @@ White Choc. 1 pack
     
     Melt white chocolate until smooth. Dip balls of cake into the melted chocolate. Let harden for at least 
     two hours. Serve and enjoy!
+    
+     .. image:: cake.png
+        :width: 50%
