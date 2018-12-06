@@ -2,21 +2,21 @@
 Decorations
 ===========
 
-**Song 1**
+**Christmas Village**
 
 
     This is a paragraph.
     
     This is another paragraph.
 
-**Song 2**
+**Wreath**
 
 
     This is a paragraph.
     
     This is another paragraph.
 
-**Song 3**
+**Christmas Lights**
 
 
     This is a paragraph.
