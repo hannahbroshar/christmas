@@ -23,7 +23,7 @@ U.S.A since 1870.
     .. image:: christmas.png
     Christmas Decorations
 
-    > For centuries before the arrival of Jesus, early Europeans
+    For centuries before the arrival of Jesus, early Europeans
     celebrated the middle of the winter season. Many of them
     had great joy throughout the winter solstice.
 
@@ -31,7 +31,7 @@ U.S.A since 1870.
     .. image:: yule.png
     Yule Holiday Symbol
 
-    > Back in Scandinavia, the Norse celebrated a the winter solstice
+    Back in Scandinavia, the Norse celebrated a the winter solstice
     as well, but they named it Yule. This celebration went through
     December 21 all the way through January. They did this to show
     express their feelings of happiness at the return of the sun.
@@ -46,7 +46,7 @@ U.S.A since 1870.
     .. image:: saturnalia.png
     Saturnalia Poster
 
-    > Back in Rome they had a holiday named Saturnalia. This was a
+    Back in Rome they had a holiday named Saturnalia. This was a
     celebration in honor of the god of agriculture, Saturn. The
     occurs during the winter solstice and continues for a whole month.
     This event was a hedonistic time. This means that food and drink

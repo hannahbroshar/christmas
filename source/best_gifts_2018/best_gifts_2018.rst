@@ -2,20 +2,6 @@
 Best Gifts of 2018 for College Students
 ==========================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-   top_5_songs/top_5_songs
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-==================
-================================================================
 Ever college student is no longer hoping for a new
 video game or a new wardrobe (at least not as much anymore).
 Now they need more realistic gifts that will aid them in their
@@ -23,6 +9,7 @@ busy every day life. Here's the list:
 
 
 **1. YYQ Bluetooth Headphones Wireless Sports**
+
 **Sweat-Proof Noise-Canceling Earbuds**
 
     .. image:: bluetooth_earbuds.png
@@ -38,7 +25,6 @@ busy every day life. Here's the list:
 
 **2. JBL Flip 3 Waterproof Portable Bluetooth Speaker**
 
-
     .. image:: jbl_flip3.png
 
     "This is a highly portable bluetooth speaker with amazing sound
@@ -51,6 +37,7 @@ busy every day life. Here's the list:
     .. _$70 on Amazon.: https://goo.gl/CqYdkY
 
 **3. POWERADD Pilot 12000mAh Apple Lightning**
+
 **Portable Power Bank**
 
     .. image:: power_bank.png
