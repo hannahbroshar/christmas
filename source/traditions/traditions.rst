@@ -47,7 +47,7 @@ Traditions
     
     Head over to the Top 5 Movies page to get some ideas!
 
-If you are looking for some fun new recipes head over to Sally's Baking Addiction!
+If you are looking for some fun new recipes head over to `Sally's`_ Baking Addiction!
 
 .. _Sally's: https://sallysbakingaddiction.com/50-christmas-cookie-recipes/
 
