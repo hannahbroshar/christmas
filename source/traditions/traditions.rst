@@ -15,6 +15,7 @@ Traditions
     baking session.
     
     **List of Ideas**
+    
     * Sugar cookies 
     * Dipped pretzels
     * Chocolate fudge
