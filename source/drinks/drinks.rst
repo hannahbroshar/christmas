@@ -43,7 +43,7 @@ Water       1/3 c
 =========== ========
 
     In a saucepan, combine sugar, cocoa and salt. Add water; bring to a boil. Cook and stir for 2 minutes. 
-    Stir in milk; heat to serving temperature (do not boil). Remove from the heat; stir in vanilla. 
+    Stir in milk; heat to serving temperature *(do not boil)*. Remove from the heat; stir in vanilla. 
     Whisk until frothy. If desired, garnish with marshmallows, cream or cinnamon sticks.
     
     .. image:: hot.png
