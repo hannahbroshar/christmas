@@ -55,19 +55,6 @@ Snowman      White            Ornaments that look like coal, carrot, top the tre
 
 
 
-
-
-
-    * Theme Ideas
-    * White lights and silver or gold for a classic and 
-      elegant looking tree
-    * Colored lights with all of your family ornaments for 
-      memorable and crazy tree
-    * Pick your favorite color and decorate solely in that
-    * Snowman tree: use a sheer white fabric to create each
-      snowball on your snowman tree, and use ornaments to add
-      to the other features (black ball ornaments for coal buttons, orange carrot ornament for the nose), and top it with a hat instead of a star
-    
    
 
     
