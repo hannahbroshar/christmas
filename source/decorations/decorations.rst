@@ -41,6 +41,23 @@ Decorations
     are such a beautiful addition to any home during these
     cold December days. 
     
+    
+**Ideas**
+
+============ ================ ================================================================================
+Tree         Lights           Decorations
+============ ================ ================================================================================
+Classic      White            White, silver, gold, crystal
+Traditional  Colored          Fun family ornaments
+Themed       Depends on theme Depends on theme (colored)
+Snowman      White            Ornaments that look like coal, carrot, top the tree with a hat instead of a star
+============ ================ ================================================================================
+
+
+
+
+
+
     * Theme Ideas
     * White lights and silver or gold for a classic and 
       elegant looking tree

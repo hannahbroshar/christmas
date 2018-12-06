@@ -4,43 +4,44 @@ Top 5 Christmas Song
 
 **All I Want For Christmas Is You**
 
-    .. image:: song1.jpg 
+    .. figure:: song1.jpg 
+    :alt: From Amazon
     
-    (Google Images)
 
     According to Billboard's Holiday 100 "All I want for Christmas" 
-    by Mariah Carey comes in at number 1! The song has been at the 
-    number one spot for 30 weeks now, and has been on the chart for
-    35! 
+    by Mariah Carey comes in at *number 1*! The song has been at the
+    number one spot for **30 weeks** now, and has been on the chart for 35! 
 
     
-    Mariah Carey's hit holiday jingle was released November 1st, 1994.
+    Mariah Carey's hit holiday jingle was released November 1st, 1994. 
     It seems to be a favorite every holiday season, reminding all of 
     the love birds out there exactly what their significant other is 
     wanting for the season.
 
 **Merry Christmas From The Family**
 
-    .. image:: song2.jpg
+    .. figure:: song2.jpg
+    :alt: From Amazon
 
-
-    (Google Images)
-
-
+    
     The song tends to be less traditional and more comical. This doesn't mean
     that it doesn't still relate to many families around the holiday season, 
     surely more families relate to this song more than they would like to admit.
     
-    The popular Christmas tune "Merry Christmas From The Family" was      originally written by Robert Earl Keith in 1994. Since then many      artists have done their own covers of the song. Those artists include: Montgomery Gentry, Rosie O'Donnell with the Dixie Chicks, and Jill Sobule.
+    The popular Christmas tune "Merry Christmas From The Family" was originally 
+    written by Robert Earl Keith in 1994. Since then many artists have done their
+    own covers of the song. Those artists include: Montgomery Gentry, Rosie O'Donnell 
+    with the Dixie Chicks, and Jill Sobule.
 
 **It's Beginning To Look A Lot Like Christmas**
     
-    .. image:: song3.jpg 
-
-    (Google Images)
+    .. figure:: song3.jpg 
+    :alt: From Amazon
+   
     
-    Coming in at the number 3 spot is Michael Bublé's cover of "It's Beginning to Look A Lot Like Christmas". Bublé's heavenly voice makes for a great cover of
-    any Christmas song.
+    Coming in at the number 3 spot is Michael Bublé's cover of 
+    "It's Beginning to Look A Lot Like Christmas". Bublé's *heavenly* 
+    voice makes for a great cover ofany Christmas song.
     
     The song was originally released by Meredith Wilson in 1951 but like
     many other Christmas songs has been performed by several other 
@@ -49,12 +50,9 @@ Top 5 Christmas Song
     
 **Santa Claus Is Coming To Town**
 
-    .. image:: song4.jpg
+    .. figure:: newsanta.jpg
+    :alt: From Discogs
 
-
-    (Google Images)
-
-    The classic tune that seems to make its way into almost every Christmas
 
     The classic tune that seems to make it's way into almost every Christmas
     movie and teaches kids all about Santa and his list checking habits!
@@ -64,9 +62,8 @@ Top 5 Christmas Song
 
 **The 12 Days of Christmas**
 
-    .. image:: song5.jpg
-
-    (Google Images)
+    .. figure:: song5.jpg
+    :alt: Xavier Romero-Frias
 
     
     Last but certainly not least we have "The 12 Days of Christmas". 

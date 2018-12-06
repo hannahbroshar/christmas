@@ -4,11 +4,11 @@ Top 5 Christmas Movies
 
 **A Christmas Story**
 
-    .. image:: movie1.jpg
+    .. figure:: movie1.jpg
+    :alt: From iTunes
     
-    (Google Images)
 
-    1983
+    *1983*
     
     *A Christmas Story* is a classic Christmas movie that has
     been around for what seems like forever. All Ralphie is 
@@ -17,11 +17,11 @@ Top 5 Christmas Movies
 
 **Home Alone**
 
-    .. image:: movie2.jpg
+    .. figure:: movie2.jpg
+    :alt: From Hulu
 
-    (Google Images)
     
-    1990
+    *1990*
     
     Oops, maybe cheating the system with this number 2 spot! *Home Alone* and its sequels are all fun Christmas movies
     to remind families each year how much they mean to another,
@@ -30,11 +30,11 @@ Top 5 Christmas Movies
 
 **The Santa Claus**
 
-    .. image:: movie3.jpg
-
-    (Google Images)
+    .. figure:: newsanta.jpg
+    :alt: From IMDb
     
-    1994
+    
+    *1994*
     
     This might count as cheating again because one
     cannot simply include the first *The Santa Clause* without including all of them, so number 3 on this just so happens 
@@ -43,11 +43,11 @@ Top 5 Christmas Movies
     
 **How The Grinch Stole Christmas**
 
-    .. image:: movie4.jpg
-
-    (Google Images)
+    .. figure:: newgrinch.jpg
+    :alt: From IMDb
     
-    2000
+    
+    *2000*
     
     Does your heart grow 3 times whenever you watch this film? 
     I know mine does, how could it not?! *How The Grinch Stole Christmas* is a movie for all ages that has some humor to 
@@ -55,11 +55,11 @@ Top 5 Christmas Movies
 
 **National Lampoon's Christmas Vacation**
 
-    .. image:: movie5.jpg
-
-    (Google Images)
+    .. figure:: newcv.jpg
+    :alt: From IMDb
     
-    1989
+    
+    *1989*
     
     Start thinking of everything that can go wrong when you try to plan the perfect Christmas. That is what this movie is all
     about! Clark Griswold is in for some fun in this movie, viewers are sure to be entertained by all of the mishaps he
