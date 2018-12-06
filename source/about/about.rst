@@ -17,37 +17,37 @@ About the Authors:
     
     This is another paragraph.
 
-**Katelyn**
+**Katelyn:**
 
-    Katelyn is a (year) student from (town), (state). She is involved in (activity).
-    She enjoys (activity), (activity) and (activity)
+    Katelyn is a softmore student from Manchester, IA. She is involved in Track.
+    She enjoys Netflix, workingout and playing with my dog.
     
     * Major: Computer Science and CIS 
-    * Hometown: Des Moines, Iowa
+    * Hometown: Manchester, Iowa
     
-    * Favorite Christmas Movie: Home Alone
-    * Favorite Christmas Song: Jingle Bell Rock
+    * Favorite Christmas Movie: White Christmas
+    * Favorite Christmas Song: Deck the Halls
     * Favorite Christmas Activity: Baking Cookies
 
-**Haley**
+**Haley:**
 
-    Haley is a (year) student from (town), (state). She is involved in (activity).
-    She enjoys (activity), (activity) and (activity)
+    Haley is a junior student from Mount Pleasant, Iowa. She is involved in Simpson Women's Golf, CEO and Simpson SHRM     Chapter.
+    She enjoys golf, hanging out with friends and crab rangoons!
     
-    * Major: Computer Science and CIS 
-    * Hometown: Des Moines, Iowa
+    * Major: Business Management with a Human Resources minor 
+    * Hometown: Mount Pleasant, Iowa
     
-    * Favorite Christmas Movie: Home Alone
-    * Favorite Christmas Song: Jingle Bell Rock
-    * Favorite Christmas Activity: Baking Cookies
+    * Favorite Christmas Movie: How The Grinch Stole Christmas
+    * Favorite Christmas Song: Merry Christmas From The Family
+    * Favorite Christmas Activity: Decorating the tree
     
-**Noah**
+**Noah:**
 
-    Noah is a (year) student from (town), (state). He is involved in (activity).
-    He enjoys (activity), (activity) and (activity)
+    Noah is a sophomore student from Broken Arrow, Oklahoma. He is involved in the Simpson Swim & Dive team.
+    He enjoys movies, food, and video games.
     
-    * Major: Computer Science and CIS 
-    * Hometown: Des Moines, Iowa
+    * Major: CIS 
+    * Hometown: Broken Arrow, Oklahoma
     
     * Favorite Christmas Movie: Home Alone
     * Favorite Christmas Song: Jingle Bell Rock

@@ -5,35 +5,55 @@ Decorations
 **Christmas Village**
 
 
-    This is a paragraph.
+    These adorable little glass fixtures have been 
+    around for quite a while but still are a great
+    way to decorate during the holiday season. They
+    create the perfect winter scene!
     
-    This is another paragraph.
 
 **Wreath**
 
 
-    This is a paragraph.
+    Who doesn't love wreaths, and a Christmas one at that?! 
+    Many people love to decorate fake wreaths to hang all 
+    year round, but these Christmas time wreaths are just 
+    beautiful! They seem to get more and more elaborate each
+    year, by adding bows, ribbons, pinecones, ornaments and 
+    whatever else one could think of!
     
-    This is another paragraph.
 
 **Christmas Lights**
 
 
-    This is a paragraph.
+    Whatever happened to the simple one strand of lights? HA!
+    Those days are long gone for most, because the neighbors 
+    have begun to step up their game and you can't be seen as
+    the lazy neighborhood Grinch! Households are covering their entire homes in lights and using technology and local radio channels to put on light shows! That's right, you can tune into certain stations and watch as the lights correspond to the music on the radio, crazy!
     
-    This is another paragraph.
+    That's not all! There are light up, life-size outdoor decor such as reindeer and Santa's!
     
-**Song 4**
+**Christmas Tree**
 
 
-    This is a paragraph.
+    Can't leave out one of the symbolic decorations of the
+    holiday season, the Christmas Tree! Whether your team 
+    white lights or colored lights everyone can agree they
+    are such a beautiful addition to any home during these
+    cold December days. 
     
-    This is another paragraph.
-
-**Song 5**
-
-
-    This is a paragraph.
+    * Theme Ideas
+    * White lights and silver or gold for a classic and 
+      elegant looking tree
+    * Colored lights with all of your family ornaments for 
+      memorable and crazy tree
+    * Pick your favorite color and decorate solely in that
+    * Snowman tree: use a sheer white fabric to create each
+      snowball on your snowman tree, and use ornaments to add
+      to the other features (black ball ornaments for coal buttons, orange carrot ornament for the nose), and top it with a hat instead of a star
     
-    This is another paragraph.
+   
+
+    
+    
+    
    

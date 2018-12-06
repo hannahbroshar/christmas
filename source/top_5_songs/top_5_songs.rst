@@ -5,20 +5,34 @@ Top 5 Christmas Song
 **All I Want For Christmas Is You**
 
     .. image:: song1.jpg 
+<<<<<<< HEAD
+
+    (Google Images)
+
+=======
+    
+>>>>>>> 09c698f2a277f8d7e793b68a9c22b65b4ff957f7
     According to Billboard's Holiday 100 "All I want for Christmas" 
-    by Mariah Carey comes in at number 1! The song as been at the 
+    by Mariah Carey comes in at number 1! The song has been at the 
     number one spot for 30 weeks now, and has been on the chart for
     35! 
 
     
     Mariah Carey's hit holiday jingle was released November 1st, 1994.
     It seems to be a favorite every holiday season, reminding all of 
-    the love birds out there exacty what their significant other is 
+    the love birds out there exactly what their significant other is 
     wanting for the season.
 
 **Merry Christmas From The Family**
 
     .. image:: song2.jpg
+<<<<<<< HEAD
+
+    (Google Images)
+
+=======
+    
+>>>>>>> 09c698f2a277f8d7e793b68a9c22b65b4ff957f7
     The song tends to be less traditional and more comical. This doesn't mean
     that it doesn't still relate to many families around the holiday season, 
     surely more families relate to this song more than they would like to admit.
@@ -28,10 +42,17 @@ Top 5 Christmas Song
 **It's Beginning To Look A Lot Like Christmas**
     
     .. image:: song3.jpg 
+<<<<<<< HEAD
+
+    (Google Images)
+
+=======
+    
+>>>>>>> 09c698f2a277f8d7e793b68a9c22b65b4ff957f7
     Coming in at the number 3 spot is Michael Bublé's cover of "It's Beginning to Look A Lot Like Christmas". Bublé's heavenly voice makes for a great cover of
     any Christmas song.
     
-    The song was origially released by Meredith Wilson in 1951 but like
+    The song was originally released by Meredith Wilson in 1951 but like
     many other Christmas songs has been performed by several other 
     artists. Bublé in particular, released his cover in 2011 on his 
     album *Christmas*.
@@ -39,19 +60,34 @@ Top 5 Christmas Song
 **Santa Claus Is Coming To Town**
 
     .. image:: song4.jpg
+<<<<<<< HEAD
+
+    (Google Images)
+
+    The classic tune that seems to make its way into almost every Christmas
+=======
+    
     The classic tune that seems to make it's way into almost every Christmas
+>>>>>>> 09c698f2a277f8d7e793b68a9c22b65b4ff957f7
     movie and teaches kids all about Santa and his list checking habits!
     
     "Santa Claus Is Coming To Town" was released back in 1934 and was written
-    by John Frderick Coots and Haven Gillespie.
+    by John Frederick Coots and Haven Gillespie.
 
 **The 12 Days of Christmas**
 
     .. image:: song5.jpg
+<<<<<<< HEAD
+
+    (Google Images)
+
+=======
+    
+>>>>>>> 09c698f2a277f8d7e793b68a9c22b65b4ff957f7
     Last but certainly not least we have "The 12 Days of Christmas". 
     This has been a holiday favorite over the years, that is if people
      can remember all 12 gifts and not just **FIVE GOLDEN RINGS!**
     
     The song actually originated in England in 1780 as a chant rather
-    than a song. Then in 1909 was tranformed into a song by Frederic Austin.
+    than a song. Then in 1909 was transformed into a song by Frederic Austin.
    
