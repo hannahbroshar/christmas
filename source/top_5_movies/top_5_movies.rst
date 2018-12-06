@@ -6,20 +6,24 @@ Top 5 Christmas Movies
 
     .. image:: movie1.jpg
     
+    (Google Images)
+
     1983
     
     *A Christmas Story* is a classic Christmas movie that has
-    been around for what seems like forever. All Ralphoie is 
+    been around for what seems like forever. All Ralphie is 
     worried about this Christmas is escaping from his bullies
     and getting his Red Ryder BB Gun! The movie is a comical family Christmas movie.
 
 **Home Alone**
 
     .. image:: movie2.jpg
+
+    (Google Images)
     
     1990
     
-    Oops, maybe cheating the system with this number 2 spot! *Home Alone* and its sequals are all fun Christmas movies
+    Oops, maybe cheating the system with this number 2 spot! *Home Alone* and its sequels are all fun Christmas movies
     to remind families each year how much they mean to another,
     even if you do forget a child every now and then. These 
     movies are filled with funny, action, and family moments!
@@ -27,6 +31,8 @@ Top 5 Christmas Movies
 **The Santa Claus**
 
     .. image:: movie3.jpg
+
+    (Google Images)
     
     1994
     
@@ -38,6 +44,8 @@ Top 5 Christmas Movies
 **How The Grinch Stole Christmas**
 
     .. image:: movie4.jpg
+
+    (Google Images)
     
     2000
     
@@ -48,10 +56,13 @@ Top 5 Christmas Movies
 **National Lampoon's Christmas Vacation**
 
     .. image:: movie5.jpg
+
+    (Google Images)
     
     1989
     
     Start thinking of everything that can go wrong when you try to plan the perfect Christmas. That is what this movie is all
     about! Clark Griswold is in for some fun in this movie, viewers are sure to be entertained by all of the mishaps he
     experiences with a family Christmas.
+
    
