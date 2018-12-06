@@ -26,7 +26,7 @@ Welcome to Simpson Christmas Blog!
    about/about
    top_5_songs/top_5_songs
    top_5_movies/top_5_movies
-   top_5_gifts_kids/top_5_gifts_kids
+   kids_gifts/kids_gifts
    top_5_gifts_him/top_5_gifts_him
    top_5_gifts_her/top_5_gifts_her
    best_gifts_2018/best_gifts_2018
@@ -39,7 +39,7 @@ Welcome to Simpson Christmas Blog!
    kids_activities/kids_activities
    outside_activities/outside_activities
    traditions/traditions
-   table_of_contents/table_of_contents
+  
    
    
 

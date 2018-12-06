@@ -2,38 +2,121 @@
 Top 5 gifts for her
 ===================
 
-**Song 1**
++-----------+----------------+-------------------+---------------------+------------+---------------+
+|           |Technology      | Vehical           | Workout             | Sports     | Other         |
+|           |                |                   |                     | Hobbies    |               |
++===========+================+===================+=====================+============+===============+
+|Under $15  |Phone charger   |License plate frame|Water/ Blender bottle|Dry bag     |Flask          |
++-----------+----------------+-------------------+---------------------+------------+---------------+
+|Under $25  |Echo            |Triple ball hitch  |Foam roller          |Hammack     |Wallet         |
++-----------+----------------+-------------------+---------------------+------------+---------------+
+|Under $50  |Portable charger|Portable car jumper|Kettlebell           |Backpack    |Sports appareal|
++-----------+----------------+-------------------+---------------------+------------+---------------+
+|Under $150 |Smart watch     |Cargo Rack         |Fitness Watch        |Fishing pole|Grill          |
++-----------+----------------+-------------------+---------------------+------------+---------------+
+|Over $200  |Drone           |Tool Box           |Equiptment           |Kayak       |Bigger TV      |
++-----------+----------------+-------------------+---------------------+------------+---------------+
 
+If you like my ideas in chart keep reading. I have more gift ideas for the man in your life.
 
-    This is a paragraph.
+**Under $15**
+-------------
+
+Under 15$ gifts are great for the office secret santa or a white elephant gift exchange. 
+My favorite part about these gifts have a lot of choices for color style and sometimes even 
+get customized for only $15. You can be a personalized gift for that price. 
+
+* Technology
+
+    * Phone case 
+    * Popsockets,phone wallet
+    * Computer mouse or mouse pad
+
+.. image:: mouse_pad.png
+    :width: 30%
+
+* Workout
+
+    * Blender bottle
+    * Resistance band
+    * Armband for phone
+    * Laddar
+
+.. image:: resistance_band.png
+    :width: 30%
     
-    This is another paragraph.
 
-**Song 2**
+.. image:: water_bottle.png
+    :width: 30%
 
-
-    This is a paragraph.
-    
-    This is another paragraph.
-
-**Song 3**
+* Other
 
 
-    This is a paragraph.
-    
-    This is another paragraph.
-    
-**Song 4**
+**Under $50**
+-------------
 
+I’m going to combine the $30-$50 because depend or the quality of most of these products you can find them in both groups.
 
-    This is a paragraph.
-    
-    This is another paragraph.
+* Technology
 
-**Song 5**
+    * Wireless headphones or gaming headphones with mic
+    * Wireless speaker
+    * Poertbale charger or otterbox phone case
+    * Tile, Echo, Firestick
 
+.. image:: wireless_headphones.png
+    :width: 30%
 
-    This is a paragraph.
-    
-    This is another paragraph.
-   
+* 
+
+* Workout 
+
+    * Kettlebells, plates, Medican ball, Dumbbells
+    * Weightlifting belt and gloves
+    * Foam roller, yoga mat
+    * Preworkout and Postwork out shakes
+    * Workout clotehs
+
+.. image:: foam_roller.png
+    :width: 30%
+
+* Other
+
+    * Wallet
+    * Sports appareal, hat
+    * Bean bag toss, Spike ball
+    * Folding chair
+    * Movie, board game, movie
+
+**$100 - Over $200**
+--------------------
+
+I’m going to combine the $150- over $200 because depending on different featchers 
+that you want like in a lap top or fitness watch it might cost you more. 
+
+* Technology
+
+    * Smart watch
+    * Tablet, Computer, phone, TV
+    * Smart home and Security Cameras
+    * Virtual reality head set, Drone, Camera
+
+.. image:: watch.png
+    :width: 30%
+
+* Workout 
+
+    * FitnessWatch, Wireless Headphones
+    * Cross training shoes, Cross Battle Rope
+    * Excise equiptment like bike, treadmill, lifting rack
+
+.. image:: running_shoes.png
+    :width: 30%
+
+* Other
+
+    * Shoes like birkenstocks
+    * Sunglasses
+
+.. image:: sunglasses.png
+    :width: 30%
