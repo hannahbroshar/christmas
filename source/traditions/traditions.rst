@@ -15,15 +15,15 @@ Traditions
     baking session.
     
     **List of Ideas**
-    *Sugar cookies 
-    *Dipped pretzels
-    *Chocolate fudge
-    *Apple Crumble
-    *Peanut butter kiss cookies
-    *Gingerbread House
-    *Hot chocolate cookies
-    *Mint Cake
-    *and more!
+    * Sugar cookies 
+    * Dipped pretzels
+    * Chocolate fudge
+    * Apple Crumble
+    * Peanut butter kiss cookies
+    * Gingerbread House
+    * Hot chocolate cookies
+    * Mint Cake
+    * and more!
 
 
     If you are looking for some fun new recipes head over to `Sally's`_ Baking Addiction!
