@@ -11,6 +11,7 @@ busy, here's a list of 5 things for them to do over the holidays.
 **1. Gingerbread House Making**
 
     .. image:: gingerbread_house.png
+    (Image found on cooking.nytimes.com)
 
     This is always a hit with the kids. This one is truly a classic
     tradition that nearly every one has at least once in their life
@@ -28,6 +29,7 @@ busy, here's a list of 5 things for them to do over the holidays.
 **2. Sugar Cookie Decorating**
 
     .. image:: sugar_cookies.png
+    (Image found on bettycrocker.com)
 
     Sugar cookies are one of the easiest baking activities one can take
     part it. They'll even be done and ready for decorating in 30 minutes
@@ -42,6 +44,7 @@ busy, here's a list of 5 things for them to do over the holidays.
 **3. Bark**
 
     .. image:: bark.png
+    (Image found on jessicainthekitchen.com)
 
     This is one of my personal favorites if I have to be completely
     honest. There will be a link below showing how it's made, but the recipe
@@ -60,6 +63,7 @@ busy, here's a list of 5 things for them to do over the holidays.
 **4. Customized Ornaments**
 
     .. image:: ornaments.png
+    (Image found on twosisterscrafting.com)
 
     One of the most reoccurring activities that I would do as a kid
     was custom made Christmas ornaments. All you'll need for this one
@@ -75,6 +79,7 @@ busy, here's a list of 5 things for them to do over the holidays.
 **5. DIY Snow Globes**
 
     .. image:: snow_globes.png
+    (Image found on simplemost.com)
 
     Another crazy simple project for all ages is a do it yourself snow
     globe. One of the good things about this particular project is that

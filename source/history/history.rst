@@ -21,6 +21,7 @@ U.S.A since 1870.
 
 
     .. image:: christmas.png
+    (Image found on christmas.365greetings.com)
 
     Christmas Decorations
 
@@ -30,6 +31,7 @@ U.S.A since 1870.
 
 
     .. image:: yule.png
+    (Image found on ueat.utoronto.ca)
 
     Yule Holiday Symbol
 
@@ -46,7 +48,8 @@ U.S.A since 1870.
 
 
     .. image:: saturnalia.png
-    
+    (Image found on hellenicfaith.com)
+
     Saturnalia Poster
 
     Back in Rome they had a holiday named Saturnalia. This was a
