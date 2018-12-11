@@ -2,6 +2,10 @@
 About the Authors:
 ==================
 
+This page is introducing you to the authors of Simpson's Christmas Blog! Each author is a 
+student at Simpson College located in Indianola, Iowa. Each individual was responsible for 
+writing and completing certain pages of the website. Enjoy getting to know the authors!
+
 **Hannah:**
 
     Hannah is a sophomore transfer student from Des Moines, Iowa. She lives off campus with her family
@@ -20,7 +24,7 @@ About the Authors:
 **Katelyn:**
 
     Katelyn is a softmore student from Manchester, IA. She is involved in Track.
-    She enjoys Netflix, workingout and playing with my dog.
+    She enjoys Netflix, working out and playing with her dog.
     
     * Major: Computer Science and CIS 
     * Hometown: Manchester, Iowa
@@ -31,8 +35,8 @@ About the Authors:
 
 **Haley:**
 
-    Haley is a junior student from Mount Pleasant, Iowa. She is involved in Simpson Women's Golf, CEO and Simpson SHRM     Chapter.
-    She enjoys golf, hanging out with friends and crab rangoons!
+    Haley is a junior student from Mount Pleasant, Iowa. She is involved in Simpson Women's Golf, CEO and Simpson 
+    SHRM Chapter. She enjoys golf, hanging out with friends and eating crab rangoons!
     
     * Major: Business Management with a Human Resources minor 
     * Hometown: Mount Pleasant, Iowa
