@@ -8,9 +8,10 @@ have an endless amount of energy most days. Well if you're
 somebody who needs a break or is out of ideas to keep them
 busy, here's a list of 5 things for them to do over the holidays.
 
-**1. Gingerbread House Making**
+* **1. Gingerbread House Making**
 
     .. image:: gingerbread_house.png
+
     (Image found on cooking.nytimes.com)
 
     This is always a hit with the kids. This one is truly a classic
@@ -26,9 +27,10 @@ busy, here's a list of 5 things for them to do over the holidays.
     .. _Food Network website: https://goo.gl/1wABYV
 
 
-**2. Sugar Cookie Decorating**
+* **2. Sugar Cookie Decorating**
 
     .. image:: sugar_cookies.png
+
     (Image found on bettycrocker.com)
 
     Sugar cookies are one of the easiest baking activities one can take
@@ -41,9 +43,10 @@ busy, here's a list of 5 things for them to do over the holidays.
     .. _Allrecipes: https://goo.gl/o5Gu6v
 
 
-**3. Bark**
+* **3. Bark**
 
     .. image:: bark.png
+
     (Image found on jessicainthekitchen.com)
 
     This is one of my personal favorites if I have to be completely
@@ -60,9 +63,10 @@ busy, here's a list of 5 things for them to do over the holidays.
     .. _bark at home: https://goo.gl/2ZeXJy
 
 
-**4. Customized Ornaments**
+* **4. Customized Ornaments**
 
     .. image:: ornaments.png
+
     (Image found on twosisterscrafting.com)
 
     One of the most reoccurring activities that I would do as a kid
@@ -76,9 +80,10 @@ busy, here's a list of 5 things for them to do over the holidays.
     .. _walkthrough: https://goo.gl/38FhHo
 
 
-**5. DIY Snow Globes**
+* **5. DIY Snow Globes**
 
     .. image:: snow_globes.png
+
     (Image found on simplemost.com)
 
     Another crazy simple project for all ages is a do it yourself snow
