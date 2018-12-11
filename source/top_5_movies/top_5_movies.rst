@@ -5,7 +5,6 @@ Top 5 Christmas Movies
 **A Christmas Story**
 
     .. figure:: movie1.jpg
-    :alt: From iTunes
     
 
     *1983*
@@ -18,7 +17,6 @@ Top 5 Christmas Movies
 **Home Alone**
 
     .. figure:: movie2.jpg
-    :alt: From Hulu
 
     
     *1990*
@@ -31,7 +29,6 @@ Top 5 Christmas Movies
 **The Santa Claus**
 
     .. figure:: newsanta.jpg
-    :alt: From IMDb
     
     
     *1994*
@@ -44,7 +41,6 @@ Top 5 Christmas Movies
 **How The Grinch Stole Christmas**
 
     .. figure:: newgrinch.jpg
-    :alt: From IMDb
     
     
     *2000*
@@ -56,7 +52,6 @@ Top 5 Christmas Movies
 **National Lampoon's Christmas Vacation**
 
     .. figure:: newcv.jpg
-    :alt: From IMDb
     
     
     *1989*

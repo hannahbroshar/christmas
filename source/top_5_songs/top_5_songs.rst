@@ -5,7 +5,6 @@ Top 5 Christmas Song
 **All I Want For Christmas Is You**
 
     .. figure:: song1.jpg 
-    :alt: From Amazon
     
 
     According to Billboard's Holiday 100 "All I want for Christmas" 
@@ -21,7 +20,6 @@ Top 5 Christmas Song
 **Merry Christmas From The Family**
 
     .. figure:: song2.jpg
-    :alt: From Amazon
 
     
     The song tends to be less traditional and more comical. This doesn't mean
@@ -36,7 +34,6 @@ Top 5 Christmas Song
 **It's Beginning To Look A Lot Like Christmas**
     
     .. figure:: song3.jpg 
-    :alt: From Amazon
    
     
     Coming in at the number 3 spot is Michael Bublé's cover of 
@@ -51,7 +48,6 @@ Top 5 Christmas Song
 **Santa Claus Is Coming To Town**
 
     .. figure:: newsanta.jpg
-    :alt: From Discogs
 
 
     The classic tune that seems to make it's way into almost every Christmas
@@ -63,7 +59,6 @@ Top 5 Christmas Song
 **The 12 Days of Christmas**
 
     .. figure:: song5.jpg
-    :alt: Xavier Romero-Frias
 
     
     Last but certainly not least we have "The 12 Days of Christmas". 
