@@ -120,7 +120,7 @@ that you want like in a lap top or fitness watch it might cost you more.
     * Tablet, Computer, phone, TV
     * Smart home and Security Cameras
     * Virtual reality head set, Drone, Camera
-
+    
 .. image:: computer.png
     :width: 30%
 

@@ -42,8 +42,7 @@ get customized for only $15. You can be a personalized gift for that price.
     * Laddar
 
 .. image:: water_bottle.png
-    :width: 30%
-    
+    :width: 30%    
 
 * Fashion/ Clothes
 
