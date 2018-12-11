@@ -41,16 +41,20 @@ Decorations
     are such a beautiful addition to any home during these
     cold December days. 
     
-    * Theme Ideas
-    * White lights and silver or gold for a classic and 
-      elegant looking tree
-    * Colored lights with all of your family ornaments for 
-      memorable and crazy tree
-    * Pick your favorite color and decorate solely in that
-    * Snowman tree: use a sheer white fabric to create each
-      snowball on your snowman tree, and use ornaments to add
-      to the other features (black ball ornaments for coal buttons, orange carrot ornament for the nose), and top it with a hat instead of a star
     
+**Ideas**
+
+============ ================ ================================================================================
+Tree         Lights           Decorations
+============ ================ ================================================================================
+Classic      White            White, silver, gold, crystal
+Traditional  Colored          Fun family ornaments
+Themed       Depends on theme Depends on theme (colored)
+Snowman      White            Ornaments that look like coal, carrot, top the tree with a hat instead of a star
+============ ================ ================================================================================
+
+
+
    
 
     

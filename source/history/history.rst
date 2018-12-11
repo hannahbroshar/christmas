@@ -21,6 +21,7 @@ U.S.A since 1870.
 
 
     .. image:: christmas.png
+
     Christmas Decorations
 
     For centuries before the arrival of Jesus, early Europeans
@@ -29,6 +30,7 @@ U.S.A since 1870.
 
 
     .. image:: yule.png
+
     Yule Holiday Symbol
 
     Back in Scandinavia, the Norse celebrated a the winter solstice
@@ -44,6 +46,7 @@ U.S.A since 1870.
 
 
     .. image:: saturnalia.png
+    
     Saturnalia Poster
 
     Back in Rome they had a holiday named Saturnalia. This was a

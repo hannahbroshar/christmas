@@ -5,7 +5,7 @@ Crafts
 **Kids crafts**
 ---------------
 
-What you will need:
+*What you will need:*
 
 Paint and markers
 

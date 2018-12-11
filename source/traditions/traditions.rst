@@ -14,10 +14,22 @@ Traditions
     sprinkles by the end of it seems like a typical
     baking session.
     
-    Sugar cookies, dipped pretzels and more are typical
-    things that can be made. Head over to our Desserts 
-    page to see some tasty ideas for more ideas for 
-    your next baking day!
+    **List of Ideas**
+    
+    * Sugar cookies 
+    * Dipped pretzels
+    * Chocolate fudge
+    * Apple Crumble
+    * Peanut butter kiss cookies
+    * Gingerbread House
+    * Hot chocolate cookies
+    * Mint Cake
+    * and more!
+
+
+    If you are looking for some fun new recipes head over to `Sally's`_ Baking Addiction!
+
+.. _Sally's: https://sallysbakingaddiction.com/50-christmas-cookie-recipes/
 
 **Finding the Perfect Tree**
 
@@ -46,6 +58,9 @@ Traditions
     many families enjoy doing together.
     
     Head over to the Top 5 Movies page to get some ideas!
+
+
+
 
 
    
