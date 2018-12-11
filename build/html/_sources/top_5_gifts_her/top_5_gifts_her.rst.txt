@@ -2,27 +2,26 @@
 Top 5 gifts for her
 ===================
 
-+-----------+----------------+-------------------+---------------------+------------+---------------+
-|           |Technology      | Vehical           | Workout             | Sports     | Other         |
-|           |                |                   |                     | Hobbies    |               |
-+===========+================+===================+=====================+============+===============+
-|Under $15  |Phone charger   |License plate frame|Water/ Blender bottle|Dry bag     |Flask          |
-+-----------+----------------+-------------------+---------------------+------------+---------------+
-|Under $25  |Echo            |Triple ball hitch  |Foam roller          |Hammack     |Wallet         |
-+-----------+----------------+-------------------+---------------------+------------+---------------+
-|Under $50  |Portable charger|Portable car jumper|Kettlebell           |Backpack    |Sports appareal|
-+-----------+----------------+-------------------+---------------------+------------+---------------+
-|Under $150 |Smart watch     |Cargo Rack         |Fitness Watch        |Fishing pole|Grill          |
-+-----------+----------------+-------------------+---------------------+------------+---------------+
-|Over $200  |Drone           |Tool Box           |Equiptment           |Kayak       |Bigger TV      |
-+-----------+----------------+-------------------+---------------------+------------+---------------+
++-----------+----------------+---------------------+------------+---------------+
+|           |Technology      | Workout             | Fashion /  | Other         |
+|           |                |                     | Clothes    |               |
++===========+================+=====================+============+===============+
+|Under $15  |Phone charger   |Water/ Blender bottle|Sports bra  |lotion         |
++-----------+----------------+---------------------+------------+---------------+
+|Under $25  |Echo            |Foam roller          |Pajamas     |Scarf          |
++-----------+----------------+---------------------+------------+---------------+
+|Under $50  |Portable charger|Kettlebell           |Leggings    |photofram      |
++-----------+----------------+---------------------+------------+---------------+
+|Under $150 |Smart watch     |Fitness Watch        |Jeans       |Coat           |
++-----------+----------------+---------------------+------------+---------------+
+|Over $200  |Drone           |Equiptment           |Hunter boots|Jewelry        |
++-----------+----------------+---------------------+------------+---------------+
 
 If you like my ideas in chart keep reading. I have more gift ideas for the man in your life.
 
 **Under $15**
--------------
 
-Under 15$ gifts are great for the office secret santa or a white elephant gift exchange. 
+Under 15$ gifts are great for the office *secret santa* or a white elephant gift exchange. 
 My favorite part about these gifts have a lot of choices for color style and sometimes even 
 get customized for only $15. You can be a personalized gift for that price. 
 
@@ -42,18 +41,33 @@ get customized for only $15. You can be a personalized gift for that price.
     * Armband for phone
     * Laddar
 
-.. image:: resistance_band.png
+.. image:: water_bottle.png
     :width: 30%
     
 
-.. image:: water_bottle.png
+* Fashion/ Clothes
+
+    * Sports bra 
+    * Spandex
+    * T-Shirt
+    * Blanket
+
+.. image:: blanket.png
     :width: 30%
 
 * Other
 
+    * Lotion 
+    * Candle
+    * Perfume
+
+.. image:: candle.png
+    :width: 30%
+
+.. image:: lotion.png
+    :width: 30%
 
 **Under $50**
--------------
 
 I’m going to combine the $30-$50 because depend or the quality of most of these products you can find them in both groups.
 
@@ -67,8 +81,6 @@ I’m going to combine the $30-$50 because depend or the quality of most of thes
 .. image:: wireless_headphones.png
     :width: 30%
 
-* 
-
 * Workout 
 
     * Kettlebells, plates, Medican ball, Dumbbells
@@ -80,16 +92,26 @@ I’m going to combine the $30-$50 because depend or the quality of most of thes
 .. image:: foam_roller.png
     :width: 30%
 
+* Fashion/ Clothes
+
+    * Leggings
+    * Nike hoodie
+    * Purse
+
+.. image:: purse.png
+    :width: 30%
+
 * Other
 
-    * Wallet
-    * Sports appareal, hat
-    * Bean bag toss, Spike ball
-    * Folding chair
-    * Movie, board game, movie
+    * Gloves
+    * Photo frame
+    * Straightener
 
-**$100 - Over $200**
---------------------
+.. image:: straightener.png
+    :width: 30%
+
+$100 - Over $200
+----------------
 
 I’m going to combine the $150- over $200 because depending on different featchers 
 that you want like in a lap top or fitness watch it might cost you more. 
@@ -113,10 +135,21 @@ that you want like in a lap top or fitness watch it might cost you more.
 .. image:: running_shoes.png
     :width: 30%
 
+* Fashion/ Clothes
+
+    * Jeans
+    * Coat
+    * Full outfit(matching top and bottom)
+    * Uggs
+
+.. image:: ugg_shoes.png
+    :width: 30%        
+
 * Other
 
     * Shoes like birkenstocks
     * Sunglasses
+    * *Jewelry*
 
-.. image:: sunglasses.png
+.. image:: birkenstock_shoes.png
     :width: 30%
